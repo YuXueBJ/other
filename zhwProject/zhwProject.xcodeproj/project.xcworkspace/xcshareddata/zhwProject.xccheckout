@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CDE65A78-81BA-4120-A7F9-D11F658031B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>zhwProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DAD5890B-99DD-400C-BC85-CB35EEEDD9E7</key>
+		<string>https://github.com/YuXueBJ/other.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zhwProject/zhwProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DAD5890B-99DD-400C-BC85-CB35EEEDD9E7</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/YuXueBJ/other.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DAD5890B-99DD-400C-BC85-CB35EEEDD9E7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DAD5890B-99DD-400C-BC85-CB35EEEDD9E7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MaoDoudou</string>
+		</dict>
+	</array>
+</dict>
+</plist>
